@@ -2,7 +2,7 @@ import React from 'react';
 import { StyleSheet, Text, View, ImageBackground,Image, TextInput, TouchableOpacity } from 'react-native';
 
 const backgroundColor = "#75bd51";
-const logo = require("/assets/Logo.png");
+const logo = require("/src/assets/images/Logo.png");
 
 export default function App() {
 
